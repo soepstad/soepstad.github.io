@@ -1,0 +1,13 @@
+baseurl = "http://soepstad.github.io/"
+languageCode = "en-us"
+title = "Hæ?"
+author = "Lars Søpstad"
+theme = "hugo-zen"
+
+[params]
+  logo      = "/images/logo.jpg"
+  copyright = "Nah."
+  twitter   = "https://twitter.com/soepstad"
+  github    = "https://github.com/soepstad/"
+  email     = "soepstadstrash@gmail.com"
+
