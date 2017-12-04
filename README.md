@@ -1,1 +1,0 @@
-# soepstad.github.io
