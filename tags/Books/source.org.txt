@@ -1,0 +1,11 @@
+
+CLOSED: [2017-04-01 Sat 15:30]
+:PROPERTIES:
+:ID: tags-books
+:CREATED:  [2017-04-01 Sat 15:27]
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2017-04-01 Sat 15:30]
+:END:
+
+Books and stuff

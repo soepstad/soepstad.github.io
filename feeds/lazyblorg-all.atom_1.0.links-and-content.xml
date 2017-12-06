@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+      xmlns:thr="http://purl.org/syndication/thread/1.0"
+      xml:lang="en-us">
+  <link rel="self" href="http://soepstad.github.io/feeds/lazyblorg-all.atom_1.0.links-and-content.xml" />
+  <title type="text">Coffee, Black</title>
+  <id>http://soepstad.github.io/</id>
+  <link href="http://soepstad.github.io" />
+  <icon>/favicon.ico</icon>
+  <updated>2017-12-06T15:28:51+01:00</updated>
+  <author>
+    <name>L*rs</name>
+  </author>
+  <subtitle type="text">Coffee, Black</subtitle>
+  <rights>All content written by L*rs</rights>
+  <generator uri='https://github.com/novoid/lazyblorg'>Generated from Org-mode source code using lazyblorg which is written in Python. Industrial-strength technology, baby.</generator>
+<!-- ############################################################################################# -->
+<entry>
+    <title type="text">Churchill and Orwell: The fight for freedom</title>
+    <link href='http://soepstad.github.io/2017/12/06/about' />
+    <published>2017-12-06T11:24:00+01:00</published>
+    <updated>2017-12-06T11:24:00+01:00</updated>
+    <category scheme='http://soepstad.github.io/tags/books' term='books' />
+    <summary type='xhtml'>
+<div xmlns='http://www.w3.org/1999/xhtml'>
+<p>
+
+ A bit too much "great man"-ing of Churchill at times, and the first part is basically two separate short biographies intertwined with a shallow history of the war-to-war era. The final part is the most interesting, when Ricks gets more into their overlapping ideas and the legacy of those ideas. He could very well have spent more time on this and less on the generic biographies.
+
+</p>
+
+
+<p>
+
+ Audio: James Lurie has the perfect voice for a book such as this, somber and works well at 1.5x speed.
+
+</p>
+</div>
+    </summary>    <content type='xhtml'>
+      <div xmlns='http://www.w3.org/1999/xhtml'>
+	
+<p>
+
+ A bit too much "great man"-ing of Churchill at times, and the first part is basically two separate short biographies intertwined with a shallow history of the war-to-war era. The final part is the most interesting, when Ricks gets more into their overlapping ideas and the legacy of those ideas. He could very well have spent more time on this and less on the generic biographies.
+
+</p>
+
+
+<p>
+
+ Audio: James Lurie has the perfect voice for a book such as this, somber and works well at 1.5x speed.
+
+</p>
+
+      </div>
+    </content>
+    <id>http://soepstad.github.io/2017/12/06/about-from-feed-with-content</id>
+</entry>
+<!-- ############################################################################################# -->
+<entry>
+    <title type="text">Books</title>
+    <link href='http://soepstad.github.io/tags/Books' />
+    <published>2017-04-01T15:30:00+01:00</published>
+    <updated>2017-04-01T15:30:00+01:00</updated>
+    <summary type='xhtml'>
+<div xmlns='http://www.w3.org/1999/xhtml'>
+<p>
+
+Books and stuff
+
+</p>
+</div>
+    </summary>    <content type='xhtml'>
+      <div xmlns='http://www.w3.org/1999/xhtml'>
+	
+<p>
+
+Books and stuff
+
+</p>
+
+      </div>
+    </content>
+    <id>http://soepstad.github.io/tags/Books-from-feed-with-content</id>
+</entry></feed>
