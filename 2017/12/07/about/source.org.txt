@@ -1,0 +1,14 @@
+** DONE About Coffee, black                                      :blog:
+This is Coffee, black. Nothing here is to be taken too seriously, it
+is a collection of thoughts, experiences, random this and that. Some
+attempts at book reviewing[1] might happen, and some political
+opinions will probably shine through.
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2017-12-07 Thu 12:44]
+CLOCK: [2017-12-07 thu 12:28]--[2017-12-07 thu 12:31] =>  0:03
+:END:
+:PROPERTIES:
+:CREATED: [2017-12-06 Wed 11:29]
+:ID: about
+:END:
+
