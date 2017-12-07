@@ -1,4 +1,4 @@
-* DONE Churchill and Orwell: The fight for freedom :BLOG:books:
+** DONE Churchill and Orwell: The fight for freedom             :BLOG:books:
 :LOGBOOK:
 - State "DONE"       from              [2017-12-06 Wed 11:24]
 :END:
